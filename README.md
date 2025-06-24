@@ -61,12 +61,10 @@
 
 ---
 
-<!-- ## 📸 Screenshots  
-> *(Insert screenshots of your Deco app config, Pi-hole dashboard, or architecture diagram here)*  
-> Example:
-> ![Pi-hole Dashboard](https://your-screenshot-url.com)
+## 📸 Screenshots  
+> [Pi-hole Dashboard](screenshots/pihole-dashboard.png)
 > 
---- -->
+--- 
 
 ## 🧪 Lessons Learned  
 - Deepened understanding of DNS, DHCP, and local IP routing  
