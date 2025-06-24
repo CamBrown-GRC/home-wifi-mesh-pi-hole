@@ -1,6 +1,6 @@
 # Secure Home Network with TP-Link Mesh Wi-Fi and Pi-hole Ad Blocking
-## Overview
-- 🖥 This project documents my implementation of a secure home network using a TP-Link Deco XE75 mesh Wi-Fi system combined with Pi-hole on a Raspberry Pi Zero 2 W. The setup is designed to improve performance, reduce tracking/ads, and enhance local network security.
+## 📔 Overview
+- This project documents my implementation of a secure home network using a TP-Link Deco XE75 mesh Wi-Fi system combined with Pi-hole on a Raspberry Pi Zero 2 W. The setup is designed to improve performance, reduce tracking/ads, and enhance local network security.
 
 ---
 
