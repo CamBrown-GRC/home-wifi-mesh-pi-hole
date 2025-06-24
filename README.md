@@ -75,3 +75,15 @@
 - Reinforced basic GRC principles like least privilege and control documentation  
 
 ---
+
+## 📌 Next Steps  
+- Integrate **Prometheus + Grafana** for network visualization  
+- Set up basic log forwarding to a centralized logging system  
+- Explore moving from IoT isolation to VLAN segmentation with Unifi or pfSense  
+- Create risk register and policy documentation to complement GRC learning  
+
+---
+
+## 🧑‍💻 About Me  
+I recently passed the [ISC2 Certified in Cybersecurity (CC)](https://www.isc2.org/certifications/cc) exam and am actively pursuing entry and junior-level cybersecurity and GRC roles.  
+This project is part of my personal initiative to build technical skills and document them publicly.
