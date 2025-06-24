@@ -60,3 +60,18 @@
 - Pi-hole admin panel configured for local access only  
 
 ---
+
+<!-- ## 📸 Screenshots  
+> *(Insert screenshots of your Deco app config, Pi-hole dashboard, or architecture diagram here)*  
+> Example:
+> ![Pi-hole Dashboard](https://your-screenshot-url.com)
+> 
+--- -->
+
+## 🧪 Lessons Learned  
+- Deepened understanding of DNS, DHCP, and local IP routing  
+- Practiced segmenting network zones for better security  
+- Learned the value of DNS filtering for threat reduction  
+- Reinforced basic GRC principles like least privilege and control documentation  
+
+---
